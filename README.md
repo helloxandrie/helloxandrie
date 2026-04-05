@@ -50,8 +50,6 @@ I help busy business owners manage their backend operations, Shopify stores, and
 ![Meta](https://img.shields.io/badge/Meta_Business-1877F2?style=flat-square&logo=facebook&logoColor=white)
 ![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)
 
-**Also:** Cin7 · Xero · Monday.com · Asana · Meta Business Suite · TikTok
-
 ---
 
 ## ⭐ What Clients Say

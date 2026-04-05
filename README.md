@@ -14,7 +14,7 @@ I help busy business owners manage their backend operations, Shopify stores, and
 - 🏆 **Top-Rated** on Upwork with **100% Job Success Score**
 - 🎓 **BS Commerce, Major in Management** graduate
 - 🌏 Based in the **Philippines** — timezone-friendly for AU & UK clients
-- 💼 **3+ years** supporting ecommerce and online business owners
+- 💼 **6+ years** supporting ecommerce and online business owners
 - 🚀 Currently upskilling in **GoHighLevel & Zapier automation**
 
 ---

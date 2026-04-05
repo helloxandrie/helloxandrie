@@ -42,6 +42,13 @@ I help busy business owners manage their backend operations, Shopify stores, and
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cin7](https://img.shields.io/badge/Cin7-00B4A0?style=flat-square&logoColor=white)
+![Xero](https://img.shields.io/badge/Xero-0052CC?style=flat-square&logo=xero&logoColor=white)
+![Monday](https://img.shields.io/badge/Monday.com-F6165D?style=flat-square&logo=monday&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_Business-1877F2?style=flat-square&logo=facebook&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)
 
 **Also:** Cin7 · Xero · Monday.com · Asana · Meta Business Suite · TikTok
 

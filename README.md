@@ -47,17 +47,6 @@ I help busy business owners manage their backend operations, Shopify stores, and
 
 ---
 
-## 🏪 Shopify Stores I've Worked On
-
-| Store | Niche | Country |
-|---|---|---|
-| Happy Paws Co. | Pet Ecommerce | 🇦🇺 Australia |
-| Hue PH | Fashion & Footwear | 🇵🇭 Philippines |
-| Copenhagen Kid | Children's Play | 🇩🇰 Denmark |
-| Opulent & Affordable | Home & Furniture | 🌍 International |
-
----
-
 ## ⭐ What Clients Say
 
 > *"It's been an amazing two years working with Xandrie. Our business has grown a lot during that time, and she's been a big part of that. She learns very quickly, never complains, and is always willing to help. We truly love her."*
